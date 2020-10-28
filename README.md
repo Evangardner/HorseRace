@@ -27,3 +27,4 @@ if they wish.
   Players that also bet on the winning horse can still receive seconds from the other players who won. 
   Every time all four horses pass a stage of the track, one card is pulled randomly from the deck and the corresponding horse is sent back.
 ## License
+[MIT License](https://github.com/Evangardner/HorseRace/blob/master/LICENSE)
