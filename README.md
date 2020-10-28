@@ -6,7 +6,7 @@ deck until the horse crosses the finish line!
 
 ## Installation
   ### Prerequisites:
-    golang - available for download at their [website](https://learn.go.dev/)
+  **golang**: available for download at their [website](https://learn.go.dev/)
   ### MacOS and Linux Installation:
     1. Download Github repository as a .zip file
     2. Extract to desired location
