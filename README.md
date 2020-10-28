@@ -36,6 +36,10 @@ Please direct all support inquiries and bug reports to AZ@AZ.net
 ### Which horse should I place my bet on?
 This question is extremely common, and for good reason, as betting on the right horse will win you the game. The best horse to bet on is the one that will win. However, this horse will change between games based on the pseudo random number generator in go. If you would like to know which horse to bet on, reverse engineer the randomness algorithm in the language.
 ### How many people can play the game?
-Since the player who wins may distribute seconds to themselves, This game can be played with one player at mminimum, and infinitely many players at maximum.
+Since the player who wins may distribute seconds to themselves, This game can be played with one player at minimum, and infinitely many players at maximum.
+### What is a horse?
+A (admittedly imperfect) description of a horse is a mammal with four legs and a mane. Horses are domesticated animals that human beings have bred for the purpose of manual labor and transportation, as well as a variety of other uses. Horses are sometimes bred for the purpose of racing, and are driven around a track by a rider called a "jockey". Prior knowledge of the anatomy, appearance, or behavior of a horse are not required for use of this program. The same can be said for jockeys, which have been omitted from the program entirely. 
+## How To Contribute?
+Contributions are always welcome to Horse Race. Before committing to the project, please ask permission by emailing our support email (AZ@AZ.net)
 ## License
 [MIT License](https://github.com/Evangardner/HorseRace/blob/master/LICENSE)
