@@ -1,5 +1,5 @@
 # HorseRace
-  a card game for people who don't have cards at the moment. written in golang.
+  A card game for people who don't have cards at the moment. Written in golang.
 ## Description
   A game where there are four horses on a track, each one corresponding to a suit of card. Cards are pulled randomly from a digital 
 deck until the horse crosses the finish line! 
