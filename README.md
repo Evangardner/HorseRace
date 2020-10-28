@@ -1,6 +1,6 @@
 # HorseRace
   A card game for people who don't have cards at the moment. Written in golang.
-## Description
+## Introduction
   A game where there are four horses on a track, each one corresponding to a suit of card. Cards are pulled randomly from a digital 
 deck until the horse crosses the finish line! 
 
@@ -30,5 +30,12 @@ if they wish.
 Players that also bet on the winning horse can still receive seconds from the other players who won. 
 
 Every time all four horses pass a stage of the track, one card is pulled randomly from the deck and the corresponding horse is sent back.
+## Troubleshooting/Support
+Please direct all support inquiries and bug reports to AZ@AZ.net
+## FAQs
+### Which horse should I place my bet on?
+This question is extremely common, and for good reason, as betting on the right horse will win you the game. The best horse to bet on is the one that will win. However, this horse will change between games based on the pseudo random number generator in go. If you would like to know which horse to bet on, reverse engineer the randomness algorithm in the language.
+### How many people can play the game?
+Since the player who wins may distribute seconds to themselves, This game can be played with one player at mminimum, and infinitely many players at maximum.
 ## License
 [MIT License](https://github.com/Evangardner/HorseRace/blob/master/LICENSE)
