@@ -11,12 +11,12 @@ deck until the horse crosses the finish line!
    1. Download Github repository as a .zip file
    2. Extract to desired location
    3. run the following command:
-     go build /PATHTO.GOFILE
+      ```go build /PATHTO.GOFILE```
    4. A unix executable will be created and will be ready to run.
    ### Windows Installation:
-    1. Download Github repository as a .zip file
-    2. Extract to desired location
-    3. A Microsoft executable is already included in the folder, simply run it however you see fit. 
+   1. Download Github repository as a .zip file
+   2. Extract to desired location
+   3. A Microsoft executable is already included in the folder, simply run it however you see fit. 
 ## Usage
   To begin the game, run the executable. A prompt will appear asking you to place your bets. Do so, then press Enter to begin the race. Continue pressing enter until the race is completed. 
   Players place bets on each horse, usually in the form of seconds spent drinking a 
