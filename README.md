@@ -8,11 +8,11 @@ deck until the horse crosses the finish line!
   ### Prerequisites:
   **golang**: available for download at their [website](https://learn.go.dev/)
   ### MacOS and Linux Installation:
-    1. Download Github repository as a .zip file
-    2. Extract to desired location
-    3. run the following command:
-      go build /PATHTO.GOFILE
-    4. A unix executable will be created and will be ready to run.
+   1. Download Github repository as a .zip file
+   2. Extract to desired location
+   3. run the following command:
+     go build /PATHTO.GOFILE
+   4. A unix executable will be created and will be ready to run.
    ### Windows Installation:
     1. Download Github repository as a .zip file
     2. Extract to desired location
